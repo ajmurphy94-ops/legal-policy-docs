@@ -28,3 +28,4 @@ Continued use of the app after changes means you accept the revised terms.
 
 7. Contact Us
 If you have any questions, contact us via social media or through our support channels.
+
