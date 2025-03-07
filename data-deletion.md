@@ -20,3 +20,4 @@ Your request will be processed within 30 days. Note that certain data may be ret
 Once your data is deleted, you will receive a confirmation notification via email or through the app.
 
 For any questions or concerns regarding data deletion, please contact our support team via social media or through our in-app support.
+
