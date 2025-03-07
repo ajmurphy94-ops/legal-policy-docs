@@ -69,7 +69,7 @@ TikTok Login
 These services have their own privacy policies, and we recommend reviewing them.
 
 Children's Privacy
-Krown Kleans is not intended for children under 13 years old. We do not knowingly collect data from minors. If you believe a child has provided us with personal information, please contact us for removal.
+Krown Kleans is not intended for children under 16 years old. We do not knowingly collect data from minors. If you believe a child has provided us with personal information, please contact us for removal.
 
 Changes to This Privacy Policy
 We may update this policy from time to time. We will notify users of major changes via in-app notifications or email.
